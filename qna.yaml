@@ -1,0 +1,13 @@
+task_description: Teach the model about IBM Storage Ceph
+created_by: Greg
+domain: storage
+seed_examples:
+  - question: How do banks use IBM Storage Ceph?
+    answer: >
+      IBM Storage Ceph, providing scale-out object storage with S3 API connectivity 
+      and bi-directional replication across datacenter locations using secure token service (STS).  
+document:
+ repo: https://github.ibm.com/gregkleiman/IBM-Storage-Ready-Nodes.git
+ commit: 7dc0972
+ patterns:
+  - bank case study.md
