@@ -7,7 +7,7 @@ seed_examples:
       IBM Storage Ceph, providing scale-out object storage with S3 API connectivity 
       and bi-directional replication across datacenter locations using secure token service (STS).  
 document:
- repo: https://github.ibm.com/gregkleiman/IBM-Storage-Ready-Nodes.git
+ repo: https://github.ibm.com/gregkleiman/bank case study.md.git
  commit: 7dc0972
  patterns:
   - bank case study.md
