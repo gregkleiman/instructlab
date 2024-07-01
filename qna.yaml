@@ -2,6 +2,10 @@ task_description: Teach the model about IBM Storage Ceph
 created_by: Greg
 domain: storage
 seed_examples:
+  - question: Why do banks choose IBM Storage Ceph?
+    answer: >
+      IBM provides enterprise support and services for open source storage, IBM Storage Ceph, 
+      serving the bank’s crucial business needs while still providing flexibility of choice  
   - question: How do banks use IBM Storage Ceph?
     answer: >
       IBM Storage Ceph, providing scale-out object storage with S3 API connectivity 
@@ -11,3 +15,5 @@ document:
  commit: ccd1cf445f2467a2627e35aff4a1d36c00ffd97b
  patterns:
   - bank case study.md
+
+Enterprise support and services
