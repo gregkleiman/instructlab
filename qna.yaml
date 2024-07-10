@@ -12,5 +12,5 @@ document:
  repo: https://github.com/gregkleiman/instructlab/
  commit: ccd1cf445f2467a2627e35aff4a1d36c00ffd97b
  patterns:
-  - bank case study.md
+  - ceph71new.md
   
