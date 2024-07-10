@@ -10,7 +10,7 @@ seed_examples:
   question: How do banks use IBM Storage Ceph?
 document:
  repo: https://github.com/gregkleiman/instructlab/
- commit: ccd1cf445f2467a2627e35aff4a1d36c00ffd97b
+ commit: bb5a6061edfad1d0b379eacf9ba1606103902769
  patterns:
   - ceph71new.md
   
